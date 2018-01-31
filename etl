@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+def success
+  puts 'OK'
+end
+
+success

@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-Simple, base Ubuntu container with port 5000 exposed.
+Simple, base Ubuntu container with port 22 exposed as port 5000.
 
 ## RUN
 start a detached docker container
